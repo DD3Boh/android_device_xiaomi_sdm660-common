@@ -149,6 +149,7 @@ PRODUCT_PACKAGES += \
 
 # Camera
 PRODUCT_PACKAGES += \
+    libMiWatermark_shim \
     Snap
 
 PRODUCT_PACKAGES += \
