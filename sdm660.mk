@@ -143,7 +143,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     org.ifaa.android.manager
 
-PRODUCT_BOOT_JARS += \
+#PRODUCT_BOOT_JARS += \
     org.ifaa.android.manager
 
 # Camera
@@ -372,7 +372,7 @@ PRODUCT_PACKAGES += \
     ims-ext-common \
     telephony-ext
 
-PRODUCT_BOOT_JARS += \
+#PRODUCT_BOOT_JARS += \
     telephony-ext
 
 # Seccomp policy
